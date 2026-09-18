@@ -1,0 +1,82 @@
+Forward Deployed Data Engineering - Senior Associate
+PwC
+Locations: NY-New York, MA-Boston, IL-Chicago
+Time type: Full time
+Job requisition id: 746063WD
+Industry/Sector: Not Applicable
+Specialism: Software Engineering
+Management Level: Senior Associate
+
+Job Description & Summary
+
+The Opportunity
+
+As a Forward Deployed Data Engineering - Senior Associate, you will be at the
+forefront of developing innovative software solutions that drive digital
+transformation and enhance business performance. Within our Tax practice,
+you will combine technical skills with creative thinking to design, code,
+and test applications that transform industries and deliver exceptional
+user experiences.
+
+As a Senior Associate, you will focus on building meaningful client
+connections and learning how to manage and inspire others. You will
+navigate increasingly complex situations, growing your personal brand and
+deepening your technical skills. You are expected to anticipate the needs
+of your teams and clients, delivering quality solutions. Embracing
+increased ambiguity, you will be comfortable when the path forward isn't
+clear, using these moments as opportunities to grow.
+
+In this role, you will leverage a broad range of tools and methodologies to
+generate new ideas and solve problems. You will develop a deeper
+understanding of the business context and how it is evolving, using
+critical thinking to break down complex concepts. This position offers a
+unique opportunity to enhance your skills while contributing to impactful
+projects within our Tax practice.
+
+Responsibilities
+
+- Developing innovative software solutions to drive digital transformation
+  and enhance business performance
+- Designing, coding, and testing applications to deliver exceptional user
+  experiences
+- Managing and reviewing code to maintain coding standards and quality
+- Collaborating with teams to analyze business requirements and translate
+  them into technical specifications
+- Utilizing programming languages such as Python for software development
+  and troubleshooting
+- Implementing continuous integration and continuous delivery (CI/CD)
+  practices to streamline software deployment
+- Conducting quality assurance testing to validate software functionality
+  and performance
+- Engaging in application development and enterprise application
+  integration to support client needs
+- Applying object-oriented design principles to create scalable and
+  maintainable software architectures
+- Debugging and troubleshooting issues to optimize software performance
+  and reliability
+- Building meaningful client connections and anticipating their needs to
+  deliver quality solutions
+- Navigating complex situations and using critical thinking to solve
+  problems and generate new ideas
+- Upholding professional and technical standards in all aspects of
+  software engineering work
+
+What You Must Have (Required)
+
+- At least a Bachelor's degree
+- At least 2 years of experience
+
+What Sets You Apart (Preferred)
+
+- Excelling in API Management and Application Development
+- Demonstrating proficiency in Business Requirements Analysis and Code
+  Review
+- Utilizing Python and Object-Oriented Design (OOD) for software solutions
+- Implementing Continuous Integration/Continuous Delivery (CI/CD)
+  practices
+- Navigating complex client relationships with effective communication
+- Developing insights through data interpretation and analysis
+- Mentoring junior team members to enhance team performance
+
+Travel Requirements: Up to 80%
+Salary range: $77,000 - $214,000
